@@ -1,4 +1,6 @@
-# Car Insurance Highvalue Customers Retention [Winner of case competition]
+# Car Insurance Highvalue Customers Retention 
+## Winner of 2022 Travelers Business Insights & Analytics LDP Case Competition
+
 
 ![image](https://user-images.githubusercontent.com/82319213/218237882-f60482e8-062c-4783-b010-26aa1f3d74a0.png)
 
